@@ -34,7 +34,7 @@
     "react": "19.1.1",
     "react-dom": "19.1.1",
     "shiki": "^1.26.1",
-    "storybook": "^8.6.12"
+    "storybook": "^8.6.17"
   },
   "devDependencies": {
     "@types/mdx": "^2.0.13",

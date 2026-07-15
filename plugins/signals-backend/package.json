@@ -45,10 +45,10 @@
     "@backstage/types": "workspace:^",
     "express": "^4.17.1",
     "express-promise-router": "^4.1.0",
-    "http-proxy-middleware": "^2.0.0",
-    "uuid": "^11.0.0",
+    "http-proxy-middleware": "^2.0.10",
+    "uuid": "^14.0.1",
     "winston": "^3.2.1",
-    "ws": "^8.18.0",
+    "ws": "^8.21.0",
     "yn": "^4.0.0"
   },
   "devDependencies": {

@@ -73,7 +73,7 @@
     "http-proxy-middleware": "^2.0.6",
     "lodash": "^4.17.21",
     "luxon": "^3.0.0",
-    "morgan": "^1.10.0",
+    "morgan": "^1.12.1",
     "node-fetch": "^2.7.0",
     "stream-buffers": "^3.0.2",
     "winston": "^3.2.1",

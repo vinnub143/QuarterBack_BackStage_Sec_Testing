@@ -41,7 +41,7 @@
     "express": "^4.19.2",
     "jose": "^5.0.0",
     "passport": "^0.7.0",
-    "zod": "^3.22.4"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@backstage/backend-test-utils": "workspace:^",

@@ -37,7 +37,7 @@
     "@backstage/version-bridge": "workspace:^",
     "@material-ui/core": "^4.12.4",
     "lodash": "^4.17.21",
-    "zod": "^3.22.4",
+    "zod": "^4.6.6",
     "zod-to-json-schema": "^3.21.4"
   },
   "devDependencies": {

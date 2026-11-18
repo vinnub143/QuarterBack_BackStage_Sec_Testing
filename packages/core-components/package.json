@@ -92,7 +92,7 @@
     "react-window": "^1.8.6",
     "remark-gfm": "^3.0.1",
     "zen-observable": "^0.10.0",
-    "zod": "^3.22.4"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@backstage/app-defaults": "workspace:^",
